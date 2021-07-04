@@ -1,0 +1,11 @@
+matplotlib
+tensorflow
+keras
+sklearn
+imutils
+numpy
+opencv-python
+iptcinfo3 
+scikit-image
+requests
+python-slugify
